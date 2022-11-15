@@ -27,11 +27,11 @@
 
   Screenshot:
 
-  ![Home Page](./src/images/screen-main.png)
+  ![Home Page](./client/public/mern-pic1.png)
 
   ## [License](#table-of-contents)
 
-  License Used: N/A
+  License Used: MIT
  
   ## [Contributing](#table-of-contents)
   
@@ -48,5 +48,3 @@
   [GitHub: devilarms83](https://github.com/devilarms83)
 
   [Email: bautista.albert@gmail.com](mailto:bautista.albert@gmail.com)
-
-  Shoutout to [Keaton Sentak](https://gist.github.com/ksentak) for information regarding react contact forms!
